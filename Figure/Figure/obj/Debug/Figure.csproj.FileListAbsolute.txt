@@ -1,0 +1,6 @@
+C:\Users\И\source\repos\Figure\Figure\bin\Debug\Figure.dll
+C:\Users\И\source\repos\Figure\Figure\bin\Debug\Figure.pdb
+C:\Users\И\source\repos\Figure\Figure\obj\Debug\Figure.csprojResolveAssemblyReference.cache
+C:\Users\И\source\repos\Figure\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\Users\И\source\repos\Figure\Figure\obj\Debug\Figure.dll
+C:\Users\И\source\repos\Figure\Figure\obj\Debug\Figure.pdb
